@@ -1,0 +1,1 @@
+use this command = npm init next-app@latest
